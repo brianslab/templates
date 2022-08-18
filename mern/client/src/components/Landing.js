@@ -3,8 +3,8 @@ import React from 'react';
 const Landing = () => {
   return (
     <div style={{ textAlign: 'center' }}>
-      <h1>Is that in my binder?</h1>
-      Keep track of your TCG inventory!
+      <h1>MERN Template Project</h1>
+      Baseline MERN full stack project
     </div>
   );
 };
