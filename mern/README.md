@@ -1,1 +1,1 @@
-# inmybinder
+# MERN template
